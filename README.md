@@ -1,5 +1,5 @@
 ### Hi there I'm Adenn
-![Banner](https://user-images.githubusercontent.com/34435675/109229728-7833cc80-77a2-11eb-9ee8-37f6f11e37c4.jpg)
+![Banner_Cover](https://user-images.githubusercontent.com/34435675/109233554-d9f73500-77a8-11eb-8fa4-e2ddad072f82.jpg)
 ### Github Stats :bar_chart:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenntumba&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adenntumba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
