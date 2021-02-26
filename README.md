@@ -4,6 +4,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenntumba&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adenntumba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+My name is Adenn, I have a degree in Computer Networks from Salvador University.
+I am a Cloud Computing enthusiast and IaC love to contribute and help environments with infrastructure automation.
+
 #### 📫 How to reach me:
 
 <!--
