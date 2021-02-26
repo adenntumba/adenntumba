@@ -5,7 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adenntumba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 My name is Adenn, I have a degree in Computer Networks from Salvador University.
-I am a Cloud Computing enthusiast and IaC love to contribute and help environments with infrastructure automation.
+
+I am a Cloud Computing enthusiast and IaC, I love contribute and help environments with infrastructure automation. Becouse this allows me to use powerful practices for years and with great success. Practices that include version control, peer review, automated tests, release of releases by tags and continuous delivery, for example.
 
 #### 📫 How to reach me:
 
