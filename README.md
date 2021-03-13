@@ -1,5 +1,5 @@
 ### Hi people, welcome to my GitHub 💻 
-![Banner_Cover](https://user-images.githubusercontent.com/34435675/109233554-d9f73500-77a8-11eb-8fa4-e2ddad072f82.jpg)
+<!--![Banner_Cover](https://user-images.githubusercontent.com/34435675/109233554-d9f73500-77a8-11eb-8fa4-e2ddad072f82.jpg)-->
 
 My name is Adenn, I have a degree in Computer Networks from Salvador University.
 
