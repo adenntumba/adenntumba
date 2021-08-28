@@ -15,6 +15,31 @@ ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenntumba&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adenntumba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## This is my core Skillset
+<div style="display: inline_block">
+<a href = "https://www.credly.com/badges/5c37c6b3-c407-4eb6-80ab-31448ff31080" target="_blank">		
+  <img align="center" alt="AZ-900" height="100" width="100" src="https://miro.medium.com/max/600/0*1CAzxuyWO_3vQ8sI.png">
+	</a>
+<a href = "https://www.credly.com/earner/earned/badge/5fb95ebd-f2aa-4b40-b5f0-e97faf8b6b27" target="_blank">		
+  <img align="center" alt="SC-900" height="100" width="100" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png">
+	</a>
+<a href = "https://www.credly.com/badges/6ea4e6e0-1814-4987-bb78-5a22ad90319c" target="_blank">		
+  <img align="center" alt="AZ-103" height="100" width="100" src="https://diogofrj.files.wordpress.com/2020/07/badge-azure-administrator-associate.png">
+	</a>
+<a href = "https://www.credly.com/badges/4e1cde72-a9fa-4fb6-8cb5-6cf6969d54a9" target="_blank">		
+  <img align="center" alt="AZ-500" height="100" width="100" src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png">
+	</a>
+<a href = "https://www.credly.com/badges/85704acd-cdd2-41a5-b0d2-112938150825" target="_blank">		
+  <img align="center" alt="AZ-300301" height="100" width="100" src="https://images.credly.com/size/340x340/images/649069f9-27f1-4d2b-92bc-c674bc67bd02/azure-solutions-architect-expert-600x600.png">
+	</a>
+<a href = "https://www.credly.com/badges/fb3a3615-795f-4089-8354-f87a026875f8" target="_blank">		
+  <img align="center" alt="AZ-140" height="100" width="100" src="https://images.credly.com/size/340x340/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png">
+	</a>
+<a href = "https://www.credly.com/badges/575aa651-5b23-4019-b777-85ce8d1ca9c6" target="_blank">		
+  <img align="center" alt="MCT" height="100" width="100" src="https://images.credly.com/size/340x340/images/c325c7c0-5fa6-4e59-be29-cd13c9417549/MCT-Microsoft_Certified_Trainer.png">
+	</a>
+</div>
+
 <!--
 **AdennTumba/adenntumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
