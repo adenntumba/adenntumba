@@ -1,44 +1,67 @@
-### Hi people, welcome to my GitHub 💻 
-<!--![Banner_Cover](https://user-images.githubusercontent.com/34435675/109233554-d9f73500-77a8-11eb-8fa4-e2ddad072f82.jpg)-->
+<h1 align="left">Hi👋 I'm Adenn</h1>
 
-My name is Adenn, I have a degree in Computer Networks from Salvador University.
+###
 
-I am a Cloud Computing enthusiast and IaC, I love contribute and help environments with infrastructure automation. Becouse this allows me to use powerful practices for years and with great success. Practices that include version control, peer review, automated tests, release of releases by tags and continuous delivery, for example.
+<h3 align="left">About me</h3>
 
-<a href="https://www.linkedin.com/in/adenntumba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+###
 
-___
+<p align="left">🔭 I’m a Cloud Engineer at @weni ...<br>📚 I'm currently learning Devops tools<br>👯  I’ve collaborated on Mentoria IaC and DevOps Days Salvador Organizer<br>🎯 Continuous Learning and Continuous Improvement</p>
 
-## This is my core Skillset
-![AZURE](https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?logo=MicrosoftAzure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) <!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=FFFFFF)--> ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=FFFFFF) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform&logoColor=FFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF) ![Packer](https://img.shields.io/badge/-Packer-FFAE1A?&logo=packer&logoColor=FFFFFF) <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
+###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenntumba&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adenntumba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Certifications
-<div style="display: inline_block">
-<a href = "https://www.credly.com/earner/earned/badge/8851b022-c0e6-463d-8bf5-62f206cbbd11" target="_blank">		
-  <img align="center" alt="AZ-900" height="100" width="100" src="https://images.youracclaim.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png">
-	</a>
-<a href = "https://www.credly.com/badges/1de7bed2-b749-46c5-a182-e7d02935ef96" target="_blank">		
-  <img align="center" alt="AZ-104" height="100" width="100" src="https://www.green.com.br/site/wp-content/uploads/2019/07/5.png">
-	</a>
-<a href = "https://www.credly.com/earner/earned/badge/9015ba55-9192-4bc5-87ab-435e917ed47e" target="_blank">		
-  <img align="center" alt="Modern Desktop" height="100" width="100" src="https://images.credly.com/images/dbc3530b-af8c-4fa1-8d9c-cdfbd9edf462/microsoft365-modern-desktop-administrator-associate-600x600.png">
-	</a>
+<h3 align="left">Socials</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/adenntumba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/adenn_tumba" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="20" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCoR966KRRj-O2BG0iav51CA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="20" alt="youtube logo"  />
+  </a>
 </div>
 
-<!--
-**AdennTumba/adenntumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" height="30" alt="packer logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adenntumba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adenntumba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
