@@ -11,9 +11,6 @@
 ###
 
 <h3 align="left">Socials</h3>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/adenntumba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="20" alt="linkedin logo"  />
